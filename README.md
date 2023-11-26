@@ -14,3 +14,4 @@ Minha primeira experiência com códigos que tenho lembrança foi criando script
 ```bash
 Se tem documentação e prazo, dá pra fazer qualquer coisa.
 ```
+[![trophy](https://github-profile-trophy.vercel.app/?username=acacioosorio)](https://github.com/ryo-ma/github-profile-trophy)
