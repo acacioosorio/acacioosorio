@@ -1,16 +1,16 @@
-### Hi there 👋
+# Acácio "Samurai" Osório
 
-<!--
-**acacioosorio/acacioosorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Acacio%20Osorio-c91717?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acacioosorio/)](https://www.linkedin.com/in/acacioosorio/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato@samuraicoder.com.br-c91717?style=flat-square&logo=maildotru&logoColor=white&link=mailto:contato@samuraicoder.com.br)](mailto:contato@samuraicoder.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Acácio Osório, ou pode me chamar de Samurai também.
+Sou Desenvolvedor Frontend desde que esse nome sequer existia. Apaixonado pelo mundo de Tech desde a Internet discada, estou sempre buscando algo pra aprender. 👋
+
+Minha primeira experiência com códigos que tenho lembrança foi criando scripts pra mIRC (como os antigos se comunicavam), passando por experiencia com Design, Ilustração, Animações, vendo a ascenção e declinio do Flash, me tornando Frontend em 2010 e atualmente dando passos pro Fullstack Development.
+
+💬 Costumo dizer:
+```bash
+Se tem documentação e prazo, dá pra fazer qualquer coisa.
+```
