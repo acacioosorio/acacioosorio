@@ -4,6 +4,7 @@ Frontend Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Acacio%20Osorio-c91717?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acacioosorio/)](https://www.linkedin.com/in/acacioosorio/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato@samuraicoder.com.br-c91717?style=flat-square&logo=maildotru&logoColor=white&link=mailto:contato@samuraicoder.com.br)](mailto:contato@samuraicoder.com.br)
+![image](https://www.codewars.com/users/acacioosorio/badges/small)
 
 Me chamo Acácio Osório, ou pode me chamar de Samurai também.
 Sou Desenvolvedor Frontend desde que esse nome sequer existia. Apaixonado pelo mundo de Tech desde a Internet discada, estou sempre buscando algo pra aprender. 👋
