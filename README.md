@@ -6,13 +6,12 @@ Frontend Developer
 [![Gmail Badge](https://img.shields.io/badge/-contato@samuraicoder.com.br-c91717?style=flat-square&logo=maildotru&logoColor=white&link=mailto:contato@samuraicoder.com.br)](mailto:contato@samuraicoder.com.br)
 ![image](https://www.codewars.com/users/acacioosorio/badges/small)
 
-Me chamo Acácio Osório, ou pode me chamar de Samurai também.
-Sou Desenvolvedor Frontend desde que esse nome sequer existia. Apaixonado pelo mundo de Tech desde a Internet discada, estou sempre buscando algo pra aprender. 👋
+Hi, my name is Acácio Osório, but you can also call me Samurai. Ive been a Frontend Developer since before the term existed. Passion for tech world since the days of dial-up Internet, Im always looking to learn something new. 👋
 
-Minha primeira experiência com códigos que tenho lembrança foi criando scripts pra mIRC (como os antigos se comunicavam), passando por experiencia com Design, Ilustração, Animações, vendo a ascenção e declinio do Flash, me tornando Frontend em 2010 e atualmente dando passos pro Fullstack Development.
+My earliest coding experience I remember was creating scripts for mIRC (how the olds communicated). Design, Illustration, and Animations, I witnessed the rise and fall of Flash, became a Frontend Developer in 2010, and Im currently taking steps towards Fullstack Development.
 
-💬 Costumo dizer:
+💬 I usually say:
 ```bash
-Se tem documentação e prazo, dá pra fazer qualquer coisa.
+If theres documentation and a deadline, anything can be done.
 ```
 [![trophy](https://github-profile-trophy.vercel.app/?username=acacioosorio)](https://github.com/ryo-ma/github-profile-trophy)
